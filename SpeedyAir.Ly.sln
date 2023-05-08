@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyAir.Ly.Console", "SpeedyAir.Ly.Console\SpeedyAir.Ly.Console.csproj", "{73822E14-8E59-48E7-B8C5-3F8860EC39E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyAir.Ly.Console.Tests", "SpeedyAir.Ly.Console.Tests\SpeedyAir.Ly.Console.Tests.csproj", "{9B65A6E8-DEAE-4EAF-ABE7-60CCF8721780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73822E14-8E59-48E7-B8C5-3F8860EC39E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73822E14-8E59-48E7-B8C5-3F8860EC39E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73822E14-8E59-48E7-B8C5-3F8860EC39E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73822E14-8E59-48E7-B8C5-3F8860EC39E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B65A6E8-DEAE-4EAF-ABE7-60CCF8721780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B65A6E8-DEAE-4EAF-ABE7-60CCF8721780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B65A6E8-DEAE-4EAF-ABE7-60CCF8721780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B65A6E8-DEAE-4EAF-ABE7-60CCF8721780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
